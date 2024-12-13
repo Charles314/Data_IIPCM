@@ -13,5 +13,5 @@ code called by main.jl.
 empirical results.
 
 The empirical application is based on data from the NielsenIQ Dataset at the Kilts
-Center for Marketing Data Center at The University of Chicago Booth School of Business. The data set cannot be included in this package. The data can be acquired at:
+Center for Marketing Data Center at The University of Chicago Booth School of Business. The data set cannot be included in this package. The data can be acquired at:
 https://www.chicagobooth.edu/research/kilts/datasets/nielseniq-nielsen.
